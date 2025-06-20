@@ -101,7 +101,7 @@ GEMINI_API_KEY="YOUR_FULL_GEMINI_API_KEY_HERE"
 ## 📁 Project Structure
 
 ```bash
-Daily-Motivation-Generator/
+gen/
 ├── app.py                   # Flask backend
 ├── .env                     # API Key (ignored by Git)
 ├── requirements.txt         # Dependencies
